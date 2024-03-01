@@ -1,0 +1,8 @@
+name: 'Beanstalk System Settings'
+description: 'Prepares Beanstalk System Settings'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+branding:
+  icon: 'award'
+  color: 'green'    
